@@ -1,7 +1,4 @@
 #!/bin/bash
-# Author : user
-# OS : Debian 12 x86_64
-# Date : 26-May-2024
 # Project Name : Backup Manager 2024
 
 
